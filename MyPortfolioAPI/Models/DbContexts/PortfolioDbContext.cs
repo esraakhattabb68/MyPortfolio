@@ -17,7 +17,7 @@ namespace MyPortfolioAPI.Models.DbContexts
         public DbSet<Project> Projects { get; set; }
         public DbSet<Category> Categories { get; set; }
         public DbSet<Review> Reviews { get; set; }
-        public DbSet<SocilaMedia> SocilaMedias { get; set; }
+        public DbSet<SocialMedia> SocilaMedias { get; set; }
 
         #endregion
     }

@@ -1,6 +1,6 @@
 ﻿namespace MyPortfolioAPI.Models.Entities
 {
-    public class SocilaMedia
+    public class SocialMedia
     {
         public int Id { get; set; }
         public string Instagram { get; set; }

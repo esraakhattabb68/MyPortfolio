@@ -24,13 +24,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Data\DataSeeders\" />
-    <Folder Include="Data\JsonFiles\" />
-    <Folder Include="Interfaces\" />
     <Folder Include="DTOs\" />
     <Folder Include="Templates\" />
-    <Folder Include="Services\" />
-    <Folder Include="wwwroot\CVData\" />
     <Folder Include="wwwroot\ProjectsImage\" />
   </ItemGroup>
 
