@@ -33,7 +33,7 @@ namespace MyPortfolioAPI
 
             builder.Services.AddScoped<ICvService, CvService>();
             builder.Services.AddScoped<IHireService, HireService>();
-
+            builder.Services.AddScoped<ISocialMediaService, SocialMediaService>();
 
             #endregion
 
