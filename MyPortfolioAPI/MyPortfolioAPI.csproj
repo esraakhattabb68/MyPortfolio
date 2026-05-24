@@ -24,7 +24,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="DTOs\" />
     <Folder Include="Templates\" />
     <Folder Include="wwwroot\ProjectsImage\" />
   </ItemGroup>

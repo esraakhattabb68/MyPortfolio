@@ -32,6 +32,7 @@ namespace MyPortfolioAPI
             #region Dependency Injection
 
             builder.Services.AddScoped<ICvService, CvService>();
+            builder.Services.AddScoped<IHireService, HireService>();
 
 
             #endregion
